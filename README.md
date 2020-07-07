@@ -19,14 +19,9 @@ the License, or (at your option) any later version.
 # Usage
 
 There are two folders in the code. The "L-system inference" is a C++ program for generating datasets and inferring L-system from an input image after detection. The "Neural detector" is used for Faster RCNN network training and testing.
-<<<<<<< HEAD
+
 Please go into each folder for how to use the code.			
 ![1](image_parser.png)
-=======
-Please go into each folder for how to use the code.		
-
-![1](L-system inference/L-system_draw.png)
->>>>>>> 186a54b93a9423579b57b4dd36c31fb30ff17726
 
 # Contact
 Should you have any questions, comments, or suggestions, please contact me at: 
