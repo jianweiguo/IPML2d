@@ -1,6 +1,5 @@
 # L-system Inference
 
-## Abstract
 This is a C++ implementation of generating datasets and inferring L-system from an input image with branching structures. 
 
 ## Requirements
