@@ -5,9 +5,10 @@ This code implements the method of learning L-system representations of pixel im
       --------------------------------------------------------------
       Jianwei Guo, Haiyong Jiang, Bedrich Benes, Oliver Deussen, Xiaopeng Zhang, Dani Lischinski, Hui Huang. 
       Inverse Procedural Modeling of Branching Structures by Inferring L-Systems. 
-      ACM Transactions on Graphics 2020. [project page](https://vcc.tech/research/2020/IPML)
+      ACM Transactions on Graphics 2020.
       --------------------------------------------------------------
-      
+[project page](https://vcc.tech/research/2020/IPML)
+
 Please consider citing the above paper if this code/program (or part of it) benefits your project. 
 
 # License
